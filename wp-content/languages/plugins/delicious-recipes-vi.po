@@ -1,0 +1,2122 @@
+# Translation of Plugins - Delicious Recipes &#8211; WordPress Recipe Plugin - Stable (latest release) in Vietnamese
+# This file is distributed under the same license as the Plugins - Delicious Recipes &#8211; WordPress Recipe Plugin - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-12-25 06:52:56+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Plugins - Delicious Recipes &#8211; WordPress Recipe Plugin - Stable (latest release)\n"
+
+#: src/Functions/HelperFunctions.php:1148
+msgid "Randomize posts"
+msgstr "Ngẫu nhiên hóa các bài đăng"
+
+#: src/Functions/HelperFunctions.php:1147
+msgid "Displays text & icon"
+msgstr "Hiển thị văn bản và biểu tượng"
+
+#: src/Functions/HelperFunctions.php:1146
+msgid "Displays text"
+msgstr "Hiển thị văn bản"
+
+#: src/Functions/HelperFunctions.php:1145
+msgid "Displays icon"
+msgstr "Hiển thị biểu tượng"
+
+#: src/DeliciousAdmin.php:174
+msgid "Add to Menu"
+msgstr "Thêm vào menu"
+
+#: src/DeliciousAdmin.php:166
+msgid "Link Text"
+msgstr "Tiêu Đề Liên Kết"
+
+#: src/classes/class-delicious-recipes-shortcodes.php:423
+#: src/classes/class-delicious-recipes-shortcodes.php:437
+#: src/DeliciousAdmin.php:161 src/DeliciousAdmin.php:841
+msgid "Surprise Me"
+msgstr "Làm tôi ngạc nhiên"
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-details.php:246
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:880
+#: assets/admin/build/blocks.js:1
+msgid "kcal"
+msgstr "kcal"
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-details.php:239
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:873
+#: assets/admin/build/blocks.js:1
+msgid "servings"
+msgstr "khẩu phần ăn"
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-details.php:231
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:865
+#: assets/admin/build/blocks.js:1 assets/blocks/details/block.js:104
+msgid "Total time"
+msgstr "Tổng thời gian"
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-details.php:224
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:858
+#: assets/admin/build/blocks.js:1
+msgid "Rest time"
+msgstr "Thời gian nghỉ"
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-details.php:217
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:851
+msgid "Cook time"
+msgstr "Thời gian nấu"
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-details.php:211
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-details.php:218
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-details.php:225
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-details.php:232
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:845
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:852
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:859
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:866
+#: assets/admin/build/blocks.js:1
+msgid "minutes"
+msgstr "phút"
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-details.php:210
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:844
+#: assets/admin/build/blocks.js:1 assets/blocks/details/block.js:53
+#: assets/blocks/details/block.js:89
+msgid "Prep time"
+msgstr "Thời gian chuẩn bị"
+
+#: src/classes/class-delicious-recipes-helpers.php:162
+#: src/classes/class-delicious-recipes-helpers.php:173
+#: assets/admin/build/blocks.js:1
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "phút"
+
+#: src/classes/class-delicious-recipes-helpers.php:158
+#: src/classes/class-delicious-recipes-helpers.php:169
+#: src/Functions/HelperFunctions.php:1193 assets/admin/build/blocks.js:1
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "tiếng"
+
+#: src/DeliciousAdmin.php:894
+msgid "Jump to recipe settings"
+msgstr "Chuyển đến cài đặt công thức"
+
+#. translators: %1$s: importer plugin name %2$s: importer plugin name
+#: src/admin/partials/dr-import-recipe-screen.php:41
+msgid "%1$s plugin is not installed or activated. Please activate the %2$s plugin first to start import."
+msgstr "Plugin %1$s chưa được cài đặt hoặc kích hoạt. Vui lòng kích hoạt plugin %2$s trước để bắt đầu nhập (import)."
+
+#: src/import/class-delicious-recipes-import-wp-recipe-maker.php:28
+msgid "WP Recipe Maker"
+msgstr "Người làm công thức WP"
+
+#: src/classes/class-delicious-recipes-activator.php:103
+msgid "Recipe Editor"
+msgstr "Trình chỉnh sửa công thức"
+
+#: templates/recipe/gallery.php:36
+msgid "View Gallery"
+msgstr "Xem album ảnh"
+
+#. translators: %1$d: start count %2$d: start count + posts per page %3$d:
+#. total recipes count
+#: templates/taxonomy-archive.php:45
+msgid "%1$d - %2$d of %3$d Recipes"
+msgstr "Công thức %1$d - %2$d của %3$d"
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:1177
+#: assets/admin/build/blocks.js:1 assets/blocks/common/RecipeCard.js:114
+#: assets/blocks/recipe-card-dynamic/components/RecipeCard.js:513
+msgid "Recipe Keys:"
+msgstr "Chìa khóa của công thức:"
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:1150
+#: assets/admin/build/blocks.js:1 assets/blocks/common/RecipeCard.js:95
+#: assets/blocks/recipe-card-dynamic/components/RecipeCard.js:496
+msgid "Courses:"
+msgstr "Khóa học:"
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:1159
+#: assets/admin/build/blocks.js:1 assets/blocks/common/RecipeCard.js:78
+#: assets/blocks/recipe-card-dynamic/components/RecipeCard.js:479
+msgid "Cuisine:"
+msgstr "Ẩm thực:"
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:1168
+#: assets/admin/build/blocks.js:1 assets/blocks/common/RecipeCard.js:59
+#: assets/blocks/recipe-card-dynamic/components/RecipeCard.js:462
+msgid "Cooking Method:"
+msgstr "Phương pháp nấu:"
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:443
+#: assets/admin/build/blocks.js:1 assets/blocks/common/RecipeCard.js:51
+#: assets/blocks/recipe-card-dynamic/components/RecipeCard.js:452
+msgid "Author:"
+msgstr "Tác giả:"
+
+#: src/blocks/handpicked-recipes/block.php:13 assets/admin/build/blocks.js:1
+#: assets/blocks/handpicked-recipes/block.js:210
+#: assets/blocks/handpicked-recipes/block.js:219
+msgid "Handpicked Recipes"
+msgstr "Công thức nấu ăn được chọn lọc kỹ lưỡng"
+
+#: src/blocks/dynamic-blocks/class-delicious-recipe-buttons.php:81
+#: src/blocks/dynamic-blocks/class-delicious-recipe-buttons.php:134
+#: src/blocks/dynamic-blocks/class-delicious-recipe-buttons.php:191
+#: assets/admin/build/global.js:3 assets/admin/build/blocks.js:1
+#: assets/blocks/recipe-buttons/RecipeButtons.js:126
+#: assets/blocks/recipe-buttons/RecipeButtons.js:147
+msgid "Jump to Video"
+msgstr "Chuyển đến Video"
+
+#: src/blocks/recipe-card/block.php:62
+msgid "Recipe Card not found."
+msgstr "Không tìm thấy thẻ công thức."
+
+#: src/Functions/CoreFunctions.php:1252 src/Functions/CoreFunctions.php:1254
+msgid "cans"
+msgstr "lon"
+
+#: src/Functions/CoreFunctions.php:1251 src/Functions/CoreFunctions.php:1253
+msgid "can"
+msgstr "lon"
+
+#: src/Functions/CoreFunctions.php:1245 src/Functions/CoreFunctions.php:1247
+msgid "jars"
+msgstr "hũ"
+
+#: src/Functions/CoreFunctions.php:1244 src/Functions/CoreFunctions.php:1246
+msgid "jar"
+msgstr "hũ"
+
+#: src/Functions/CoreFunctions.php:1238 src/Functions/CoreFunctions.php:1240
+msgid "cloves"
+msgstr "đinh hương"
+
+#: src/Functions/CoreFunctions.php:1237 src/Functions/CoreFunctions.php:1239
+msgid "clove"
+msgstr "đinh hương"
+
+#: src/Functions/CoreFunctions.php:1232 src/Functions/CoreFunctions.php:1233
+#: assets/admin/build/recipe.js:3
+msgid "Drizzle"
+msgstr "Mưa phùn"
+
+#: src/Functions/CoreFunctions.php:1230 src/Functions/CoreFunctions.php:1231
+msgid "drizzle"
+msgstr "Mưa phùn"
+
+#: src/blocks/recipe-by-tax/block.php:14
+msgid "Recipes By Taxonomy"
+msgstr "Công thức bởi Taxonomy"
+
+#: src/import/class-delicious-recipes-import-wp-recipe-maker.php:44
+#: src/import/class-delicious-recipes-import-blossom-recipe-maker.php:44
+msgid "Recipe Taxonomies Mapping"
+msgstr "Bản đồ Taxonomies công thức"
+
+#: src/import/class-delicious-recipes-import-blossom-recipe-maker.php:28
+msgid "Blossom Recipe Maker"
+msgstr "Blossom Recipe Maker"
+
+#: src/admin/partials/dr-import-recipe-screen.php:151
+msgid "Import Selected Recipes / Taxonomies"
+msgstr "Nhập công thức / Taxonomies đã chọn"
+
+#: src/admin/partials/dr-import-recipe-screen.php:117
+msgid "View"
+msgstr "Xem"
+
+#: src/admin/partials/dr-import-recipe-screen.php:116
+#: assets/admin/build/global.js:1
+msgid "Edit"
+msgstr "Chỉnh sửa"
+
+#: src/admin/partials/dr-import-recipe-screen.php:91
+#: src/admin/partials/dr-import-recipe-screen.php:101
+msgid "Featured Image"
+msgstr "Ảnh tiêu biểu"
+
+#: src/admin/partials/dr-import-recipe-screen.php:90
+#: src/admin/partials/dr-import-recipe-screen.php:100
+msgid "Date Published"
+msgstr "Ngày xuất bản"
+
+#: src/admin/partials/dr-import-recipe-screen.php:88
+#: src/admin/partials/dr-import-recipe-screen.php:98
+msgid "Recipe ID"
+msgstr "ID công thức"
+
+#: src/admin/partials/dr-import-recipe-screen.php:87
+#: src/admin/partials/dr-import-recipe-screen.php:97
+msgid "Recipe Title"
+msgstr "Tiêu đề công thức"
+
+#: src/admin/partials/dr-import-recipe-screen.php:82
+msgid "Recipes to Import"
+msgstr "Công thức để nhập"
+
+#: src/admin/partials/dr-import-recipe-screen.php:65
+msgid " recipes found"
+msgstr "công thức được tìm thấy"
+
+#. translators: %d: recipes count
+#: src/admin/partials/dr-import-recipe-screen.php:63
+msgid "%d recipe found"
+msgid_plural "%d recipes found"
+msgstr[0] "%d công thức được tìm thấy"
+
+#. translators: %1$s: importer plugin name %2$s: importer plugin name
+#: src/admin/partials/dr-import-recipe-screen.php:57
+msgid "All the recipes from %1$s plugin has been imported. You can now deactivate the %2$s plugin."
+msgstr "Tất cả các công thức từ plugin %1$s đã được nhập. Bây giờ bạn có thể hủy kích hoạt plugin %2$s."
+
+#. translators: %1$s: importer plugin name
+#: src/admin/partials/dr-import-recipe-screen.php:34
+msgid "Import recipes from %1$s"
+msgstr "Nhập công thức từ %1$s"
+
+#: src/classes/class-delicious-recipes-import.php:40
+#: src/classes/class-delicious-recipes-import.php:41
+#: src/admin/partials/dr-import-recipe-screen.php:9
+msgid "Import Recipes"
+msgstr "·Nhập công thức"
+
+#. Plugin URI of the plugin
+msgid "https://wpdelicious.com/docs/"
+msgstr "https://wpdelicious.com/docs/"
+
+#: src/admin/partials/dr-taxonomy-metas-edit.php:31
+msgid "Choose image for the taxonomy."
+msgstr "Chọn hình ảnh cho taxonomy."
+
+#: src/admin/partials/dr-taxonomy-metas-edit.php:29
+msgid "Add/Replace Image"
+msgstr "Thêm/ thay đổi ảnh"
+
+#: src/admin/partials/dr-taxonomy-metas-add.php:75
+#: src/admin/partials/dr-taxonomy-metas-edit.php:104
+msgid "Choose svg icon for the taxonomy."
+msgstr "Chọn biểu tượng svg cho  taxonomy."
+
+#: src/admin/partials/dr-taxonomy-metas-add.php:30
+#: src/admin/partials/dr-taxonomy-metas-edit.php:57
+msgid "PNG Icons"
+msgstr "Biểu tượng PNG"
+
+#: src/admin/partials/dr-taxonomy-metas-add.php:29
+#: src/admin/partials/dr-taxonomy-metas-edit.php:56
+msgid "FontAwesome Icons"
+msgstr "Biểu tượng FontAwesome "
+
+#: src/admin/partials/dr-taxonomy-metas-add.php:28
+#: src/admin/partials/dr-taxonomy-metas-edit.php:55
+msgid "Recipe Icons"
+msgstr "Biểu tượng công thức"
+
+#: src/admin/partials/dr-taxonomy-metas-add.php:23
+#: src/admin/partials/dr-taxonomy-metas-edit.php:36
+msgid "Taxonomy SVG Icon"
+msgstr "Biểu tượng SVG cho Taxonomy"
+
+#: src/admin/partials/dr-taxonomy-metas-add.php:19
+#: src/admin/partials/dr-taxonomy-metas-edit.php:30
+msgid "Remove Image"
+msgstr "Xóa ảnh"
+
+#: src/admin/partials/dr-taxonomy-metas-add.php:18
+#: assets/admin/build/global.js:1 assets/admin/build/global.js:3
+#: assets/admin/build/recipe.js:1 assets/admin/build/recipe.js:3
+msgid "Add Image"
+msgstr "Thêm Ảnh"
+
+#: src/admin/partials/dr-taxonomy-metas-add.php:14
+#: src/admin/partials/dr-taxonomy-metas-edit.php:18
+msgid "Taxonomy Image"
+msgstr "Ảnh của Taxonomy"
+
+#: src/admin/partials/dr-taxonomy-metas-add.php:11
+#: src/admin/partials/dr-taxonomy-metas-edit.php:14
+msgid "Choose color for the taxonomy."
+msgstr "Chọn màu cho taxonomy."
+
+#: src/admin/partials/dr-taxonomy-metas-add.php:9
+#: src/admin/partials/dr-taxonomy-metas-edit.php:12
+msgid "Taxonomy Color"
+msgstr "Màu Taxonomy"
+
+#: src/admin/partials/dr-category-widget-form.php:76
+msgid "Show recipe counts"
+msgstr "Hiển thị số lượng công thức"
+
+#: src/admin/partials/dr-category-widget-form.php:72
+msgid "Show as dropdown"
+msgstr "Hiển thị dưới dạng trình thả xuống"
+
+#: src/admin/partials/dr-category-widget-form.php:61
+msgid "No Terms available."
+msgstr "Không có điều khoản nào."
+
+#: src/admin/partials/dr-category-widget-form.php:48
+msgid "Choose Categories:"
+msgstr "Chọn danh mục"
+
+#: src/admin/partials/dr-category-widget-form.php:29
+msgid "--Select Taxonomy--"
+msgstr "--Chọn Taxonomy--"
+
+#: src/admin/partials/dr-category-widget-form.php:26
+msgid "Recipe Taxonomy:"
+msgstr "Công thức Taxonomy:"
+
+#: src/admin/partials/dr-category-widget-form.php:16
+msgid "Recipe Cooking Method"
+msgstr "Công thức nấu ăn"
+
+#: src/admin/partials/dr-category-widget-form.php:15
+msgid "Recipe Cuisine"
+msgstr "Công thức đặc sản"
+
+#: src/admin/partials/dr-category-widget-form.php:14
+msgid "Recipe Course"
+msgstr "Khóa học nấu ăn"
+
+#: src/admin/partials/dr-category-widget-form.php:7
+#: src/widgets/categories.php:36
+msgid "Recipe Categories"
+msgstr "Danh mục công thức"
+
+#. translators: %1$s: permalink options page link
+#: src/DeliciousAdmin.php:1041
+msgid "<strong>Delicious Recipes</strong> plugin uses <b>WordPress Core REST API</b> interface for creating and managing recipes and does not support the plain permalink structure. Please <a href=\"%1$s\" >change your permalinks settings</a> to other structure to use Delicious Recipes plugin."
+msgstr "<strong>Delicious Recipes</strong> plugin sử dụng giao diện <b>WordPress Core REST API</b> để tạo và quản lý công thức nấu ăn và không hỗ trợ cấu trúc đường dẫn đơn giản. Vui lòng <a href=\"%1$s\" >thay đổi cài đặt đường dẫn của bạn</a> sang cấu trúc khác để sử dụng plugin Delicious Recipes."
+
+#: src/DeliciousAdmin.php:1025
+msgid "Clone "
+msgstr "Nhân bản"
+
+#: src/DeliciousAdmin.php:1019
+msgid "Clone"
+msgstr "Nhân bản"
+
+#: src/DeliciousAdmin.php:909
+msgid "Featured"
+msgstr "Nổi bật"
+
+#: src/DeliciousAdmin.php:683
+msgid "Recipe Settings"
+msgstr "Cài đặt công thức"
+
+#: src/DeliciousAdmin.php:637 assets/admin/build/blocks.js:1
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:95
+msgid "Egg Free"
+msgstr "Không trứng"
+
+#: src/DeliciousAdmin.php:632
+msgid "Sugar Free"
+msgstr "Không đường"
+
+#: src/DeliciousAdmin.php:627
+msgid "Soy Free"
+msgstr "Không đậu nành"
+
+#: src/DeliciousAdmin.php:622
+msgid "Corn Free"
+msgstr "Không ngô"
+
+#: src/DeliciousAdmin.php:617 assets/admin/build/blocks.js:1
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:93
+msgid "Organic"
+msgstr "Hữu cơ"
+
+#: src/DeliciousAdmin.php:612 assets/admin/build/blocks.js:1
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:96
+msgid "High Protein"
+msgstr "Protein cao"
+
+#: src/DeliciousAdmin.php:607 assets/admin/build/blocks.js:1
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:97
+msgid "Keto"
+msgstr "Keto"
+
+#: src/DeliciousAdmin.php:602 assets/admin/build/blocks.js:1
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:98
+msgid "Vegan"
+msgstr "Ăn chay"
+
+#: src/DeliciousAdmin.php:597
+msgid "Whole30"
+msgstr "Whole30"
+
+#: src/DeliciousAdmin.php:592
+msgid "Quick Meals"
+msgstr "Bữa ăn nhanh"
+
+#: src/DeliciousAdmin.php:587
+msgid "Pescetarian"
+msgstr "Pescetarian"
+
+#: src/DeliciousAdmin.php:582 assets/admin/build/blocks.js:1
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:94
+msgid "Nut Free"
+msgstr "Không hạt"
+
+#: src/DeliciousAdmin.php:577 assets/admin/build/blocks.js:1
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:90
+msgid "Dairy Free"
+msgstr "Không sản phẩm bơ sữa"
+
+#: src/DeliciousAdmin.php:572
+msgid "Raw"
+msgstr "Sống"
+
+#: src/DeliciousAdmin.php:567
+msgid "Spicy"
+msgstr "Cay"
+
+#: src/DeliciousAdmin.php:562
+msgid "Cold"
+msgstr "Lạnh"
+
+#: src/DeliciousAdmin.php:557
+msgid "Non Vegetarian"
+msgstr "Người không ăn chay"
+
+#: src/DeliciousAdmin.php:552
+msgid "Mixing"
+msgstr "Trộn"
+
+#: src/DeliciousAdmin.php:547
+msgid "Kids"
+msgstr "Trẻ em"
+
+#: src/DeliciousAdmin.php:542
+msgid "Dairy"
+msgstr "Sản phẩm bơ sữa"
+
+#: src/DeliciousAdmin.php:537
+msgid "Slow Cooker Recipes"
+msgstr "Công thức nấu ăn chậm"
+
+#: src/DeliciousAdmin.php:532 assets/admin/build/blocks.js:1
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:91
+msgid "Low Carb"
+msgstr "Ít tinh bột"
+
+#: src/DeliciousAdmin.php:527
+msgid "Freezer Meals"
+msgstr "Bữa ăn đông lạnh"
+
+#: src/DeliciousAdmin.php:522
+msgid "Paleo"
+msgstr "Paleo"
+
+#: src/DeliciousAdmin.php:517 assets/admin/build/blocks.js:1
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:89
+msgid "Gluten Free"
+msgstr "Không gluten"
+
+#: src/DeliciousAdmin.php:512
+msgid "Vegetarian Meals"
+msgstr "Bữa ăn chay"
+
+#: src/DeliciousAdmin.php:473
+msgid "New Recipe Key Name"
+msgstr "Tên chìa khóa công thức mới"
+
+#: src/DeliciousAdmin.php:472
+msgid "Add New Recipe Key"
+msgstr "Thêm chìa khóa công thức mới"
+
+#: src/DeliciousAdmin.php:471
+msgid "Update Recipe Key"
+msgstr "Cập nhật chìa khóa công thức"
+
+#: src/DeliciousAdmin.php:470
+msgid "Edit Recipe Key"
+msgstr "Chỉnh sửa chìa khóa công thức"
+
+#: src/DeliciousAdmin.php:468 src/DeliciousAdmin.php:469
+msgid "Parent Recipe Key"
+msgstr "Chìa khóa công thức parent "
+
+#: src/DeliciousAdmin.php:467
+msgid "All Recipe Keys"
+msgstr "Tất cả các chìa khóa công thức"
+
+#: src/DeliciousAdmin.php:466
+msgid "Search Recipe Keys"
+msgstr "Tìm kiếm các chìa khóa công thức"
+
+#: src/DeliciousAdmin.php:465
+msgctxt "taxonomy singular name"
+msgid "Recipe Key"
+msgstr "Chìa khóa công thức"
+
+#: src/DeliciousAdmin.php:464
+msgctxt "taxonomy general name"
+msgid "Recipe Keys"
+msgstr "Các chìa khóa công thức"
+
+#: src/DeliciousAdmin.php:445 assets/admin/build/blocks.js:1
+#: assets/blocks/recipe-by-tax/BlockInspectorControls.js:69
+msgid "Tags"
+msgstr "Thẻ"
+
+#: src/DeliciousAdmin.php:444
+msgid "New Tag Name"
+msgstr "Tên thẻ mới"
+
+#: src/DeliciousAdmin.php:443
+msgid "Add New Tag"
+msgstr "Thêm thẻ mới"
+
+#: src/DeliciousAdmin.php:442
+msgid "Update Tag"
+msgstr "Cập nhật thẻ"
+
+#: src/DeliciousAdmin.php:441
+msgid "Edit Tag"
+msgstr "Sửa thẻ"
+
+#: src/DeliciousAdmin.php:439 src/DeliciousAdmin.php:440
+msgid "Parent Tag"
+msgstr "Thẻ parent"
+
+#: src/DeliciousAdmin.php:438
+msgid "All Tags"
+msgstr "Tất cả thẻ"
+
+#: src/DeliciousAdmin.php:437
+msgid "Search Tags"
+msgstr "Tìm kiếm thẻ"
+
+#: src/DeliciousAdmin.php:436
+msgctxt "taxonomy singular name"
+msgid "Tag"
+msgstr "Thẻ"
+
+#: src/DeliciousAdmin.php:435
+msgctxt "taxonomy general name"
+msgid "Tags"
+msgstr "Thẻ"
+
+#: src/DeliciousAdmin.php:416 assets/admin/build/blocks.js:1
+#: assets/blocks/recipe-by-tax/BlockInspectorControls.js:65
+msgid "Cooking Methods"
+msgstr "Phương pháp nấu ăn"
+
+#: src/DeliciousAdmin.php:415
+msgid "New Cooking Method Name"
+msgstr "Tên phương pháp nấu ăn mới"
+
+#: src/DeliciousAdmin.php:414
+msgid "Add New Cooking Method"
+msgstr "Thêm phương pháp nấu ăn mới"
+
+#: src/DeliciousAdmin.php:413
+msgid "Update Cooking Method"
+msgstr "Cập nhật phương pháp nấu ăn"
+
+#: src/DeliciousAdmin.php:412
+msgid "Edit Cooking Method"
+msgstr "Sửa phương pháp nấu ăn"
+
+#: src/DeliciousAdmin.php:410 src/DeliciousAdmin.php:411
+msgid "Parent Cooking Method"
+msgstr "Phương pháp nấu ăn Parent"
+
+#: src/DeliciousAdmin.php:409
+msgid "All Cooking Methods"
+msgstr "Tất cả các phương pháp nấu ăn"
+
+#: src/DeliciousAdmin.php:408
+msgid "Search Cooking Methods"
+msgstr "Tìm kiếm phương pháp nấu ăn"
+
+#: src/DeliciousAdmin.php:407
+msgctxt "taxonomy singular name"
+msgid "Cooking Method"
+msgstr "Phương pháp nấu ăn"
+
+#: src/DeliciousAdmin.php:406
+msgctxt "taxonomy general name"
+msgid "Cooking Methods"
+msgstr "Các phương pháp nấu ăn"
+
+#: src/DeliciousAdmin.php:387 assets/admin/build/blocks.js:1
+#: assets/blocks/recipe-by-tax/BlockInspectorControls.js:61
+msgid "Cuisines"
+msgstr "Ẩm thực"
+
+#: src/DeliciousAdmin.php:386
+msgid "New Cuisine Name"
+msgstr "Tên ẩm thực mới"
+
+#: src/DeliciousAdmin.php:385
+msgid "Add New Cuisine"
+msgstr "Thêm ẩm thực mới"
+
+#: src/DeliciousAdmin.php:384
+msgid "Update Cuisine"
+msgstr "Cập nhật ẩm thực"
+
+#: src/DeliciousAdmin.php:383
+msgid "Edit Cuisine"
+msgstr "Sửa ẩm thực"
+
+#: src/DeliciousAdmin.php:381 src/DeliciousAdmin.php:382
+msgid "Parent Cuisine"
+msgstr "Ẩm thực Parent "
+
+#: src/DeliciousAdmin.php:380
+msgid "All Cuisines"
+msgstr "Tất cả ẩm thực"
+
+#: src/DeliciousAdmin.php:379
+msgid "Search Cuisines"
+msgstr "Tìm kiếm ẩm thực"
+
+#: src/DeliciousAdmin.php:378
+msgctxt "taxonomy singular name"
+msgid "Cuisine"
+msgstr "Ẩm thực"
+
+#: src/DeliciousAdmin.php:377
+msgctxt "taxonomy general name"
+msgid "Cuisines"
+msgstr "Ẩm thực"
+
+#: src/DeliciousAdmin.php:357
+msgid "New Course Name"
+msgstr "Tên khóa học mới"
+
+#: src/DeliciousAdmin.php:356
+msgid "Add New Course"
+msgstr "Thêm khóa học mới"
+
+#: src/DeliciousAdmin.php:355
+msgid "Update Course"
+msgstr "Cập nhật khóa học"
+
+#: src/DeliciousAdmin.php:354
+msgid "Edit Course"
+msgstr "Chỉnh sửa khóa học"
+
+#: src/DeliciousAdmin.php:352 src/DeliciousAdmin.php:353
+msgid "Parent Course"
+msgstr "Khóa học Parent "
+
+#: src/DeliciousAdmin.php:351
+msgid "All Courses"
+msgstr "Tất cả các khóa học"
+
+#: src/DeliciousAdmin.php:350
+msgid "Search Courses"
+msgstr "Tìm kiếm khóa học"
+
+#: src/DeliciousAdmin.php:349
+msgctxt "taxonomy singular name"
+msgid "Course"
+msgstr "Khóa học"
+
+#: src/DeliciousAdmin.php:348
+msgctxt "taxonomy general name"
+msgid "Courses"
+msgstr "Các khóa học"
+
+#: src/DeliciousAdmin.php:309
+msgid "Description."
+msgstr "Mô tả"
+
+#: src/DeliciousAdmin.php:302
+msgid "No Recipes found in Trash."
+msgstr "Không tìm thấy Công thức nào trong Thùng rác."
+
+#: src/DeliciousAdmin.php:301
+msgid "No Recipes found."
+msgstr "Không tìm thấy Công thức nào"
+
+#: src/DeliciousAdmin.php:300
+msgid "Parent Recipes:"
+msgstr "Công thức Parent:"
+
+#: src/DeliciousAdmin.php:299
+msgid "Search Recipes"
+msgstr "Tìm kiếm công thức"
+
+#: src/DeliciousAdmin.php:298
+msgid "All Recipes"
+msgstr "Tất cả công thức"
+
+#: src/DeliciousAdmin.php:297
+msgid "View Recipe"
+msgstr "Xem công thức"
+
+#: src/DeliciousAdmin.php:296
+msgid "Edit Recipe"
+msgstr "Chỉnh sửa công thức"
+
+#: src/DeliciousAdmin.php:295
+msgid "New Recipe"
+msgstr "Công thức mới"
+
+#: src/DeliciousAdmin.php:294
+msgid "Add New Recipe"
+msgstr "Thêm công thức mới"
+
+#: src/DeliciousAdmin.php:293
+msgctxt "Recipe"
+msgid "Add New"
+msgstr "Tạo mới"
+
+#: src/DeliciousAdmin.php:292
+msgctxt "add new on admin bar"
+msgid "Recipe"
+msgstr "Công thức"
+
+#: src/DeliciousAdmin.php:291
+msgctxt "admin menu"
+msgid "Recipes"
+msgstr "Công thức"
+
+#: src/DeliciousAdmin.php:290
+msgctxt "post type singular name"
+msgid "Recipe"
+msgstr "Công thức"
+
+#: src/DeliciousAdmin.php:289
+msgctxt "post type general name"
+msgid "Recipes"
+msgstr "Công thức"
+
+#: src/DeliciousAdmin.php:266
+msgid "Rate the plugin ★★★★★"
+msgstr "Đánh giá plugin ★★★★★"
+
+#: src/DeliciousAdmin.php:266
+msgid "Rate the plugin"
+msgstr "Đánh giá plugin"
+
+#: src/DeliciousAdmin.php:265
+msgid "Docs"
+msgstr "Docs"
+
+#: src/DeliciousAdmin.php:264
+msgid "Support"
+msgstr "Hỗ trợ"
+
+#: src/DeliciousAdmin.php:264
+msgid "Get help"
+msgstr "Tìm trợ giúp"
+
+#: src/DeliciousAdmin.php:224
+msgid "This is the widget area for single recipe page."
+msgstr "Đây là khu vực widget cho trang công thức đơn."
+
+#: src/DeliciousAdmin.php:222
+msgid "Delicious Recipes Sidebar"
+msgstr "Sidebar công thức Delicious"
+
+#: src/api/inc/endpoints/class-delicious-recipes-rest-controller.php:79
+msgid "You cannot update the site settings."
+msgstr "Bạn không thể cập nhật cài đặt trang web."
+
+#: src/api/inc/endpoints/class-delicious-recipes-rest-controller.php:41
+#: src/api/inc/endpoints/class-delicious-recipes-rest-controller.php:53
+#: src/api/inc/endpoints/class-delicious-recipes-rest-controller.php:66
+msgid "You cannot view the post resource."
+msgstr "Bạn không thể xem tài nguyên bài đăng."
+
+#: src/api/inc/endpoints/class-delicious-recipes-rest-global-settings-controller.php:108
+msgid "Recipe Global Settings Saved Successfully."
+msgstr "Đã lưu thành công công thức cài đặt chung."
+
+#: src/api/inc/endpoints/class-delicious-recipes-rest-global-settings-controller.php:82
+msgid "Recipe Settings Found."
+msgstr "Đã tìm thấy Cài đặt Công thức."
+
+#: src/api/inc/endpoints/class-delicious-recipes-rest-global-settings-controller.php:74
+msgid "Recipe Settings not found."
+msgstr "Không tìm thấy Cài đặt Công thức."
+
+#: src/api/inc/endpoints/class-delicious-recipes-rest-global-settings-controller.php:372
+#: src/api/inc/endpoints/class-delicious-recipes-rest-recipe-controller.php:390
+msgid "Type of Post for the object."
+msgstr "Loại bài đăng cho đối tượng."
+
+#: src/api/inc/endpoints/class-delicious-recipes-rest-global-settings-controller.php:366
+#: src/api/inc/endpoints/class-delicious-recipes-rest-recipe-controller.php:384
+msgid "A named status for the object."
+msgstr "Trạng thái được đặt tên cho đối tượng."
+
+#: src/api/inc/endpoints/class-delicious-recipes-rest-global-settings-controller.php:359
+#: src/api/inc/endpoints/class-delicious-recipes-rest-recipe-controller.php:377
+msgid "The date the object was last modified, as GMT."
+msgstr "Ngày đối tượng được sửa đổi lần cuối, là GMT."
+
+#: src/api/inc/endpoints/class-delicious-recipes-rest-global-settings-controller.php:352
+#: src/api/inc/endpoints/class-delicious-recipes-rest-recipe-controller.php:370
+msgid "The date the object was last modified, in the site's timezone."
+msgstr "Ngày đối tượng được sửa đổi lần cuối, theo múi giờ của trang web."
+
+#: src/api/inc/endpoints/class-delicious-recipes-rest-global-settings-controller.php:345
+#: src/api/inc/endpoints/class-delicious-recipes-rest-recipe-controller.php:363
+msgid "URL to the object."
+msgstr "URL đến đối tượng."
+
+#: src/api/inc/endpoints/class-delicious-recipes-rest-global-settings-controller.php:337
+#: src/api/inc/endpoints/class-delicious-recipes-rest-recipe-controller.php:355
+msgid "HTML title for the object, transformed for display."
+msgstr "Tiêu đề HTML cho đối tượng, được chuyển đổi để hiển thị."
+
+#: src/api/inc/endpoints/class-delicious-recipes-rest-global-settings-controller.php:332
+#: src/api/inc/endpoints/class-delicious-recipes-rest-recipe-controller.php:350
+msgid "Title for the object, as it exists in the database."
+msgstr "Tiêu đề cho đối tượng, tồn tại trong cơ sở dữ liệu."
+
+#: src/api/inc/endpoints/class-delicious-recipes-rest-global-settings-controller.php:323
+#: src/api/inc/endpoints/class-delicious-recipes-rest-recipe-controller.php:341
+msgid "The title for the object."
+msgstr "Tiêu đề cho đối tượng."
+
+#: src/api/inc/endpoints/class-delicious-recipes-rest-global-settings-controller.php:317
+#: src/api/inc/endpoints/class-delicious-recipes-rest-recipe-controller.php:335
+msgid "The date the object was published, in the site's timezone."
+msgstr "Ngày đối tượng được xuất bản, theo múi giờ của trang web."
+
+#: src/api/inc/endpoints/class-delicious-recipes-rest-global-settings-controller.php:311
+#: src/api/inc/endpoints/class-delicious-recipes-rest-recipe-controller.php:329
+msgid "Unique identifier for the object."
+msgstr "ID duy nhất cho đối tượng."
+
+#: src/api/inc/endpoints/class-delicious-recipes-rest-global-settings-controller.php:260
+#: src/api/inc/endpoints/class-delicious-recipes-rest-recipe-controller.php:278
+msgid "Maximum number of items to be returned in result set."
+msgstr "Số lượng kết quả được trả về một lần."
+
+#: src/api/inc/endpoints/class-delicious-recipes-rest-global-settings-controller.php:252
+#: src/api/inc/endpoints/class-delicious-recipes-rest-recipe-controller.php:270
+msgid "Current page of the collection."
+msgstr "Trang hiện tại của bộ sưu tập."
+
+#: src/api/inc/endpoints/class-delicious-recipes-rest-recipe-controller.php:167
+msgid "Recipe Settings Saved Successfully."
+msgstr "Lưu thành công cài đặt công thức"
+
+#: src/api/inc/endpoints/class-delicious-recipes-rest-recipe-controller.php:133
+#: src/api/inc/endpoints/class-delicious-recipes-rest-recipe-controller.php:156
+#: src/api/inc/endpoints/class-delicious-recipes-rest-recipe-controller.php:174
+msgid "Recipe not found by ID."
+msgstr "Không tìm thấy công thức theo ID."
+
+#: src/api/inc/endpoints/class-delicious-recipes-rest-recipe-controller.php:127
+msgid "Recipe Found."
+msgstr "Tìm thấy Công thức"
+
+#: src/api/inc/endpoints/class-delicious-recipes-rest-recipe-controller.php:96
+msgid "No Recipes Found."
+msgstr "Không tìm thấy công thức."
+
+#: src/api/inc/endpoints/class-delicious-recipes-rest-recipe-controller.php:88
+msgid "Recipes Found."
+msgstr "Tìm thấy Công thức"
+
+#: src/api/inc/endpoints/class-delicious-recipes-rest-auth-controller.php:56
+msgid "User Not Found."
+msgstr "Không tìm thấy người dùng"
+
+#: src/api/inc/endpoints/class-delicious-recipes-rest-auth-controller.php:39
+msgid "User Authentication Successful."
+msgstr "Xác thực người dùng thành công."
+
+#: src/GlobalSettings.php:69 assets/admin/build/whatsNew.js:3
+#: assets/admin/build/recipe.js:1
+msgid "Settings"
+msgstr "Cài đặt"
+
+#: src/widgets/featured.php:35 src/widgets/featured.php:93
+msgid "Featured Recipes"
+msgstr "Công thức nổi bật"
+
+#: src/widgets/featured.php:20
+msgid "A Featured Recipes Widget for Delicious Recipes."
+msgstr "Widget công thức nổi bật cho công thức Delicious."
+
+#: src/widgets/recent.php:35 src/widgets/recent.php:87
+msgid "Recent Recipes"
+msgstr "Công thức mới nhất"
+
+#: src/widgets/recent.php:20
+msgid "A Recent Recipes Widget for Delicious Recipes."
+msgstr "Widget công thức mới nhất cho công thức Delicious."
+
+#: src/widgets/recent.php:18
+msgid "Delicious: Recent Recipes"
+msgstr "Delicious: Công thức mới nhất"
+
+#: src/widgets/recent.php:100 src/widgets/popular.php:145
+#: src/widgets/featured.php:106
+msgid "Layout:"
+msgstr "Bố cục"
+
+#: src/widgets/popular.php:141
+msgid "Comment Count"
+msgstr "Đếm số phản hồi"
+
+#: src/widgets/popular.php:140
+msgid "Post Views"
+msgstr "Lượt xem bài đăng"
+
+#: src/widgets/popular.php:138
+msgid "Popular based on:"
+msgstr "Phổ biến dựa trên:"
+
+#: src/widgets/recent.php:96 src/widgets/popular.php:134
+#: src/widgets/featured.php:102
+msgid "Number of Recipes:"
+msgstr "Số công thức:"
+
+#: src/widgets/popular.php:62 src/widgets/popular.php:124
+msgid "Popular Recipes"
+msgstr "Công thức phổ biến"
+
+#: src/widgets/popular.php:22
+msgid "A Popular Recipes Widget for Delicious Recipes."
+msgstr "Widget công thức phổ biến cho công thức Delicious."
+
+#: src/widgets/popular.php:20
+msgid "Delicious: Popular Recipes"
+msgstr "Delicious: Công thức phổ biến"
+
+#: src/widgets/categories.php:20
+msgid "A list or dropdown of recipe categories for Delicious Recipes."
+msgstr "Danh sách hoặc danh sách thả xuống các danh mục công thức cho Delicious Recipes."
+
+#: src/widgets/popular-tags.php:86
+msgid "Show tag counts"
+msgstr "Hiển thị số lượng thẻ"
+
+#: src/widgets/popular-tags.php:36 src/widgets/popular-tags.php:77
+msgid "Popular Tags"
+msgstr "Thẻ được dùng nhiều nhất"
+
+#: src/widgets/popular-tags.php:20
+msgid "A Popular Tags Widget for Delicious Recipes."
+msgstr "Widget thẻ được dùng nhiều nhất cho Delicious Recipes."
+
+#: src/admin/partials/dr-category-widget-form.php:22
+#: src/widgets/recipe-keys.php:82 src/widgets/recent.php:92
+#: src/widgets/popular.php:130 src/widgets/popular-tags.php:81
+#: src/widgets/featured.php:98
+msgid "Title:"
+msgstr "Tiêu đề:"
+
+#: src/widgets/recipe-keys.php:20
+msgid "A Recipe Keys Widget for Delicious Recipes."
+msgstr "Widget chìa khóa công thức cho Delicious Recipes."
+
+#: src/widgets/recipe-keys.php:18
+msgid "Delicious: Recipe Keys"
+msgstr "Delicious: Chìa khóa công thức"
+
+#. translators: %s: time in minutes
+#: src/classes/class-delicious-recipes-recipe.php:468
+msgctxt "total time minutes"
+msgid "%s min"
+msgid_plural "%s mins"
+msgstr[0] "%s phút"
+
+#. translators: %s: time in hours
+#: src/classes/class-delicious-recipes-recipe.php:463
+msgctxt "total time hours"
+msgid "%s hr"
+msgid_plural "%s hrs"
+msgstr[0] "%s tiếng"
+
+#: src/classes/class-delicious-recipes-activator.php:513
+#: src/Functions/HelperFunctions.php:1116 src/DeliciousAdmin.php:979
+msgid "Recipe Tags"
+msgstr "Thẻ công thức"
+
+#: src/classes/class-delicious-recipes-activator.php:505
+#: src/Functions/HelperFunctions.php:1113 src/DeliciousAdmin.php:977
+msgid "Recipe Cuisines"
+msgstr "Công thức Ẩm thực"
+
+#: src/classes/class-delicious-recipes-activator.php:501
+#: src/Functions/HelperFunctions.php:1114 src/DeliciousAdmin.php:976
+msgid "Recipe Cooking Methods"
+msgstr "Phương pháp công thức nấu ăn"
+
+#: src/classes/class-delicious-recipes-activator.php:497
+#: src/Functions/HelperFunctions.php:1112 src/DeliciousAdmin.php:975
+msgid "Recipe Courses"
+msgstr "Các khóa học về công thức"
+
+#: src/classes/class-delicious-recipes-activator.php:31
+msgctxt "Page title"
+msgid "Recipe Search"
+msgstr "Tìm kiếm công thức"
+
+#: src/classes/class-delicious-recipes-activator.php:30
+msgctxt "Page slug"
+msgid "recipe-search"
+msgstr "recipe-search"
+
+#: src/Functions/HelperFunctions.php:861
+msgid "Your comment is awaiting moderation."
+msgstr "Bình luận của bạn đang chờ kiểm duyệt."
+
+#. translators: %1$s: comment date %2$s: comment time
+#: src/Functions/HelperFunctions.php:856
+msgid "%1$s at %2$s"
+msgstr "%1$s lúc %2$s"
+
+#. translators: %s: comment author link
+#: src/Functions/HelperFunctions.php:849
+msgid "<b class=\"fn\" itemprop=\"creator\" itemscope itemtype=\"https://schema.org/Person\">%s</b> <span class=\"says\">says:</span>"
+msgstr "<b class=\"fn\" itemprop=\"creator\" itemscope itemtype=\"https://schema.org/Person\">%s</b> <span class=\"says\">says:</span>"
+
+#: src/Functions/HelperFunctions.php:718
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:494
+#: assets/admin/build/recipe.js:3
+msgid "Chloride"
+msgstr "Clorua"
+
+#: src/Functions/HelperFunctions.php:713
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:490
+#: assets/admin/build/recipe.js:3
+msgid "Molybdenum"
+msgstr "Molypden"
+
+#: src/Functions/HelperFunctions.php:708
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:486
+#: assets/admin/build/recipe.js:3
+msgid "Chromium"
+msgstr "Chromium"
+
+#: src/Functions/HelperFunctions.php:703
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:482
+#: assets/admin/build/recipe.js:3
+msgid "Manganese"
+msgstr "Mangan"
+
+#: src/Functions/HelperFunctions.php:698
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:478
+#: assets/admin/build/recipe.js:3
+msgid "Copper"
+msgstr "Đồng"
+
+#: src/Functions/HelperFunctions.php:693
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:474
+#: assets/admin/build/recipe.js:3
+msgid "Selenium"
+msgstr "Chất sê len"
+
+#: src/Functions/HelperFunctions.php:688
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:470
+#: assets/admin/build/recipe.js:3
+msgid "Zinc"
+msgstr "Kẽm"
+
+#: src/Functions/HelperFunctions.php:683
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:466
+#: assets/admin/build/recipe.js:3
+msgid "Magnesium"
+msgstr "Magiê"
+
+#: src/Functions/HelperFunctions.php:678
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:462
+#: assets/admin/build/recipe.js:3
+msgid "Iodine"
+msgstr "Iốt"
+
+#: src/Functions/HelperFunctions.php:673
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:458
+#: assets/admin/build/recipe.js:3
+msgid "Phosphorus"
+msgstr "Phốt pho"
+
+#: src/Functions/HelperFunctions.php:668
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:454
+#: assets/admin/build/recipe.js:3
+msgid "Pantothenic Acid"
+msgstr "Axit pantothenic"
+
+#: src/Functions/HelperFunctions.php:663
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:450
+#: assets/admin/build/recipe.js:3
+msgid "Biotin"
+msgstr "Biotin"
+
+#: src/Functions/HelperFunctions.php:658
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:442
+#: assets/admin/build/recipe.js:3
+msgid "Vitamin B12"
+msgstr "Vitamin B12"
+
+#: src/Functions/HelperFunctions.php:653
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:446
+#: assets/admin/build/recipe.js:3
+msgid "Folate"
+msgstr "Folate"
+
+#: src/Functions/HelperFunctions.php:648
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:438
+#: assets/admin/build/recipe.js:3
+msgid "Vitamin B6"
+msgstr "Vitamin B6"
+
+#: src/Functions/HelperFunctions.php:643
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:434
+#: assets/admin/build/recipe.js:3
+msgid "Niacin"
+msgstr "Niacin"
+
+#: src/Functions/HelperFunctions.php:638
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:430
+#: assets/admin/build/recipe.js:3
+msgid "Riboflavin"
+msgstr "Riboflavin"
+
+#: src/Functions/HelperFunctions.php:633
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:426
+#: assets/admin/build/recipe.js:3
+msgid "Thiamin"
+msgstr "Thiamine"
+
+#: src/Functions/HelperFunctions.php:628
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:422
+#: assets/admin/build/recipe.js:3
+msgid "Vitamin K"
+msgstr "Vitamina K"
+
+#: src/Functions/HelperFunctions.php:623
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:418
+#: assets/admin/build/recipe.js:3
+msgid "Vitamin E"
+msgstr "Vitamin E"
+
+#: src/Functions/HelperFunctions.php:618
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:414
+#: assets/admin/build/recipe.js:3
+msgid "Vitamin D"
+msgstr "Vitamin D"
+
+#: src/Functions/HelperFunctions.php:613
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:410
+#: assets/admin/build/recipe.js:3
+msgid "Iron"
+msgstr "Iron"
+
+#: src/Functions/HelperFunctions.php:608
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:406
+#: assets/admin/build/recipe.js:3
+msgid "Calcium"
+msgstr "Canxi"
+
+#: src/Functions/HelperFunctions.php:603
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:402
+#: assets/admin/build/recipe.js:3
+msgid "Vitamin C"
+msgstr "Vitamin C"
+
+#: src/Functions/HelperFunctions.php:598
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:398
+#: assets/admin/build/recipe.js:3
+msgid "Vitamin A"
+msgstr "Vitamin A"
+
+#: src/Functions/HelperFunctions.php:589
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:393
+#: assets/admin/build/recipe.js:3
+msgid "Protein"
+msgstr "Chất đạm"
+
+#: src/Functions/HelperFunctions.php:582
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:389
+#: assets/admin/build/recipe.js:3
+msgid "Sugars"
+msgstr "Đường"
+
+#: src/Functions/HelperFunctions.php:576
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:384
+#: assets/admin/build/recipe.js:3
+msgid "Dietary Fiber"
+msgstr "Chất xơ"
+
+#: src/Functions/HelperFunctions.php:570
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:379
+#: assets/admin/build/recipe.js:3
+msgid "Total Carbohydrate"
+msgstr "Tổng carbohydrate"
+
+#: src/Functions/HelperFunctions.php:564
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:374
+#: assets/admin/build/recipe.js:3
+msgid "Potassium"
+msgstr "Kali"
+
+#: src/Functions/HelperFunctions.php:558
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:369
+#: assets/admin/build/recipe.js:3
+msgid "Sodium"
+msgstr "Natri"
+
+#: src/Functions/HelperFunctions.php:552
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:364
+#: assets/admin/build/recipe.js:3
+msgid "Cholesterol"
+msgstr "Cholesterol"
+
+#: src/Functions/HelperFunctions.php:545
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:360
+#: assets/admin/build/recipe.js:3
+msgid "Trans Fat"
+msgstr "Chất béo trans"
+
+#: src/Functions/HelperFunctions.php:539
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:355
+#: assets/admin/build/recipe.js:3
+msgid "Saturated Fat"
+msgstr "Chất béo bão hòa"
+
+#: src/Functions/HelperFunctions.php:533
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:350
+#: assets/admin/build/recipe.js:3
+msgid "Total Fat"
+msgstr "Tổng số chất béo"
+
+#: src/Functions/HelperFunctions.php:526
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:346
+#: assets/admin/build/recipe.js:3
+msgid "Calories from Fat"
+msgstr "Calo từ chất béo"
+
+#: src/Functions/HelperFunctions.php:511
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:333
+#: assets/admin/build/recipe.js:3
+msgid "Serving Size"
+msgstr "Khẩu phần ăn"
+
+#: src/Functions/CoreFunctions.php:1322
+msgid "Style Two"
+msgstr "Phong cách Hai"
+
+#: src/Functions/CoreFunctions.php:1321
+msgid "Style One"
+msgstr "Phong cách Một"
+
+#: src/Functions/CoreFunctions.php:1226
+msgid "quarts"
+msgstr "quarts"
+
+#: src/Functions/CoreFunctions.php:1225
+msgid "quart"
+msgstr "quart"
+
+#: src/Functions/CoreFunctions.php:1224
+msgid "qts"
+msgstr "qts"
+
+#: src/Functions/CoreFunctions.php:1223
+msgid "qt"
+msgstr "qt"
+
+#: src/Functions/CoreFunctions.php:1219
+msgid "pints"
+msgstr "pints"
+
+#: src/Functions/CoreFunctions.php:1218
+msgid "pint"
+msgstr "pint"
+
+#: src/Functions/CoreFunctions.php:1216 src/Functions/CoreFunctions.php:1217
+msgid "pt"
+msgstr "pt"
+
+#: src/Functions/CoreFunctions.php:1210 src/Functions/CoreFunctions.php:1212
+msgid "pinches"
+msgstr "nhúm"
+
+#: src/Functions/CoreFunctions.php:1209 src/Functions/CoreFunctions.php:1211
+msgid "pinch"
+msgstr "nhúm"
+
+#: src/Functions/CoreFunctions.php:1205
+msgid "gallons"
+msgstr "gallon"
+
+#: src/Functions/CoreFunctions.php:1204
+msgid "gallon"
+msgstr "gallon"
+
+#: src/Functions/CoreFunctions.php:1203
+msgid "gals"
+msgstr "gals"
+
+#: src/Functions/CoreFunctions.php:1202
+msgid "gal"
+msgstr "gal"
+
+#: src/Functions/CoreFunctions.php:1196 src/Functions/CoreFunctions.php:1198
+msgid "drops"
+msgstr "giọt"
+
+#: src/Functions/CoreFunctions.php:1195 src/Functions/CoreFunctions.php:1197
+msgid "drop"
+msgstr "giọt"
+
+#: src/Functions/CoreFunctions.php:1189 src/Functions/CoreFunctions.php:1191
+msgid "dashes"
+msgstr "chút ít"
+
+#: src/Functions/CoreFunctions.php:1188 src/Functions/CoreFunctions.php:1190
+msgid "dash"
+msgstr "chút ít"
+
+#: src/Functions/CoreFunctions.php:1184
+msgid "pounds"
+msgstr "pounds"
+
+#: src/Functions/CoreFunctions.php:1183
+msgid "pound"
+msgstr "pound"
+
+#: src/Functions/CoreFunctions.php:1182
+msgid "lbs"
+msgstr "lbs"
+
+#: src/Functions/CoreFunctions.php:1181
+msgid "lb"
+msgstr "lb"
+
+#: src/Functions/CoreFunctions.php:1175 src/Functions/CoreFunctions.php:1177
+msgid "sticks"
+msgstr "gậy"
+
+#: src/Functions/CoreFunctions.php:1174 src/Functions/CoreFunctions.php:1176
+msgid "stick"
+msgstr "gậy"
+
+#: src/Functions/CoreFunctions.php:1170
+msgid "liters"
+msgstr "lít"
+
+#: src/Functions/CoreFunctions.php:1169
+msgid "liter"
+msgstr "lít"
+
+#: src/Functions/CoreFunctions.php:1167 src/Functions/CoreFunctions.php:1168
+msgid "l"
+msgstr "l"
+
+#: src/Functions/CoreFunctions.php:1163
+msgid "milliliters"
+msgstr "mililit"
+
+#: src/Functions/CoreFunctions.php:1162
+msgid "milliliter"
+msgstr "mililit"
+
+#: src/Functions/CoreFunctions.php:1160 src/Functions/CoreFunctions.php:1161
+msgid "ml"
+msgstr "ml"
+
+#: src/Functions/CoreFunctions.php:1156
+msgid "tablespoons"
+msgstr "muỗng canh"
+
+#: src/Functions/CoreFunctions.php:1155
+msgid "tablespoon"
+msgstr "muỗng canh"
+
+#: src/Functions/CoreFunctions.php:1153 src/Functions/CoreFunctions.php:1154
+msgid "tbsp"
+msgstr "muỗng canh"
+
+#: src/Functions/CoreFunctions.php:1149
+msgid "teaspoons"
+msgstr "muỗng cà phê"
+
+#: src/Functions/CoreFunctions.php:1148
+msgid "teaspoon"
+msgstr "muỗng cà phê"
+
+#: src/Functions/CoreFunctions.php:1146 src/Functions/CoreFunctions.php:1147
+msgid "tsp"
+msgstr "muỗng cà phê"
+
+#: src/Functions/CoreFunctions.php:1140 src/Functions/CoreFunctions.php:1142
+msgid "cups"
+msgstr "cốc"
+
+#: src/Functions/CoreFunctions.php:1139 src/Functions/CoreFunctions.php:1141
+msgid "cup"
+msgstr "cốc"
+
+#: src/Functions/CoreFunctions.php:1135
+msgid "fluid ounces"
+msgstr "ounce chất lỏng"
+
+#: src/Functions/CoreFunctions.php:1134
+msgid "fluid ounce"
+msgstr "ounce chất lỏng"
+
+#: src/Functions/CoreFunctions.php:1132 src/Functions/CoreFunctions.php:1133
+msgid "fl oz"
+msgstr "ounce chất lỏng"
+
+#: src/Functions/CoreFunctions.php:1128
+msgid "ounces"
+msgstr "ounces"
+
+#: src/Functions/CoreFunctions.php:1127
+msgid "ounce"
+msgstr "ounce"
+
+#: src/Functions/CoreFunctions.php:1125 src/Functions/CoreFunctions.php:1126
+msgid "oz"
+msgstr "oz"
+
+#: src/Functions/CoreFunctions.php:1121
+msgid "milligrams"
+msgstr "miligam"
+
+#: src/Functions/CoreFunctions.php:1120
+msgid "milligram"
+msgstr "miligam"
+
+#: src/Functions/CoreFunctions.php:1118 src/Functions/CoreFunctions.php:1119
+#: assets/admin/build/blocks.js:1 assets/blocks/nutrition/Nutrition.js:324
+#: assets/blocks/nutrition/Nutrition.js:351
+#: assets/blocks/nutrition/Nutrition.js:374
+msgid "mg"
+msgstr "mg"
+
+#: src/Functions/CoreFunctions.php:1114
+msgid "kilograms"
+msgstr "kí "
+
+#: src/Functions/CoreFunctions.php:1113
+msgid "kilogram"
+msgstr "kí "
+
+#: src/Functions/CoreFunctions.php:1112
+msgctxt "Kilograms Abbreviation (Plural)"
+msgid "kg"
+msgstr "kí "
+
+#: src/Functions/CoreFunctions.php:1111
+msgctxt "Kilograms Abbreviation (Singular)"
+msgid "kg"
+msgstr "kí "
+
+#: src/Functions/CoreFunctions.php:1107 assets/admin/build/global.js:1
+msgid "grams"
+msgstr "gam"
+
+#: src/Functions/CoreFunctions.php:1106 assets/admin/build/global.js:1
+msgid "gram"
+msgstr "gam"
+
+#: src/Functions/CoreFunctions.php:1105
+msgctxt "Grams Abbreviation (Plural)"
+msgid "g"
+msgstr "gam"
+
+#: src/Functions/CoreFunctions.php:1104
+msgctxt "Grams Abbreviation (Singular)"
+msgid "g"
+msgstr "gam"
+
+#: src/Functions/CoreFunctions.php:886
+msgid "Category"
+msgstr "Danh mục"
+
+#: src/Functions/CoreFunctions.php:834 assets/admin/build/global.js:3
+msgid "Reset"
+msgstr "Đặt lại"
+
+#: src/Functions/CoreFunctions.php:820 assets/admin/build/global.js:3
+msgid "Simple Factor"
+msgstr "Yếu tố đơn giản"
+
+#: src/Functions/CoreFunctions.php:792 assets/admin/build/global.js:3
+msgid "Recipe Type"
+msgstr "Loại công thức"
+
+#: src/Functions/CoreFunctions.php:778 assets/admin/build/global.js:3
+msgid "Season"
+msgstr "Mùa"
+
+#: src/Functions/CoreFunctions.php:765
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:114
+#: assets/admin/build/global.js:3 assets/admin/build/blocks.js:1
+#: assets/admin/build/recipe.js:3 assets/blocks/nutrition/Nutrition.js:171
+msgid "Nutrition Facts"
+msgstr "Giá trị dinh dưỡng"
+
+#: src/Functions/CoreFunctions.php:752 assets/admin/build/global.js:3
+msgid "Read it online:"
+msgstr "Đọc trực tuyến:"
+
+#: src/Functions/CoreFunctions.php:743 assets/admin/build/global.js:3
+msgid "Thank You Note"
+msgstr "Thank You Note"
+
+#: src/Functions/CoreFunctions.php:737 assets/admin/build/global.js:3
+msgid "Author Bio"
+msgstr "Giới thiệu về tác giả"
+
+#: src/Functions/CoreFunctions.php:731 assets/admin/build/global.js:3
+msgid "Social Share"
+msgstr "Chia sẻ trên mạng xã hội"
+
+#: src/Functions/CoreFunctions.php:719 assets/admin/build/global.js:1
+#: assets/admin/build/global.js:3 assets/admin/build/recipe.js:1
+msgid "Nutrition"
+msgstr "Dinh dưỡng"
+
+#: src/Functions/CoreFunctions.php:701 assets/admin/build/global.js:3
+msgid "Images"
+msgstr "Ảnh"
+
+#: src/Functions/CoreFunctions.php:689 assets/admin/build/global.js:3
+msgid "Info"
+msgstr "Thông tin"
+
+#: src/Functions/CoreFunctions.php:683 assets/admin/build/global.js:3
+#: assets/admin/build/blocks.js:1
+#: assets/blocks/recipe-by-tax/BlockInspectorControls.js:34
+#: assets/blocks/handpicked-recipes/block.js:111
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: src/Functions/CoreFunctions.php:675 src/Functions/CoreFunctions.php:977
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:1458
+#: src/blocks/dynamic-blocks/class-delicious-recipe-buttons.php:86
+#: src/blocks/dynamic-blocks/class-delicious-recipe-buttons.php:135
+#: src/blocks/dynamic-blocks/class-delicious-recipe-buttons.php:213
+#: assets/admin/build/global.js:3 assets/admin/build/blocks.js:1
+#: assets/blocks/common/RecipeCard.js:42
+#: assets/blocks/recipe-card-dynamic/components/RecipeCard.js:419
+#: assets/blocks/recipe-buttons/RecipeButtons.js:181
+msgid "Print Recipe"
+msgstr "In công thức"
+
+#: src/Functions/CoreFunctions.php:649 src/Functions/CoreFunctions.php:973
+#: assets/admin/build/global.js:3
+msgid "Rate this recipe"
+msgstr "Đánh giá công thức này"
+
+#: src/Functions/CoreFunctions.php:631 assets/admin/build/global.js:3
+msgid "Did you make this recipe?"
+msgstr "Có phải bạn đã tạo rao công thức này?"
+
+#: src/Functions/CoreFunctions.php:607 src/DeliciousPublic.php:403
+#: assets/admin/build/global.js:3
+msgid "Recipe Index"
+msgstr "Chỉ mục công thức"
+
+#: src/Functions/CoreFunctions.php:558 src/Functions/CoreFunctions.php:958
+msgid "Jump To Video"
+msgstr "Chuyển đến Video"
+
+#: src/Functions/CoreFunctions.php:725 src/Functions/CoreFunctions.php:954
+#: templates/global/block-print.php:76 templates/global/block-print.php:310
+#: assets/admin/build/global.js:3 assets/admin/build/blocks.js:1
+#: assets/admin/build/recipe.js:1 assets/admin/build/recipe.js:3
+#: assets/blocks/common/RecipeCard.js:294
+msgid "Notes"
+msgstr "Ghi chú"
+
+#: src/Functions/CoreFunctions.php:542 src/Functions/CoreFunctions.php:950
+#: assets/admin/build/global.js:3
+msgid "File under"
+msgstr "Tập tin được lưu ở:"
+
+#: src/Functions/CoreFunctions.php:534 src/Functions/CoreFunctions.php:946
+#: assets/admin/build/global.js:3
+msgid "Keywords"
+msgstr "Từ khóa"
+
+#: src/Functions/CoreFunctions.php:526 src/Functions/CoreFunctions.php:942
+#: assets/admin/build/global.js:3
+msgid "Jump To Recipe"
+msgstr "Chuyển đến Công thức"
+
+#: src/Functions/CoreFunctions.php:518 src/Functions/CoreFunctions.php:938
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:313
+#: templates/global/block-print.php:73 assets/admin/build/global.js:3
+msgid "Video"
+msgstr "Video"
+
+#: src/classes/class-delicious-recipes-activator.php:509
+#: src/Functions/CoreFunctions.php:510 src/Functions/CoreFunctions.php:934
+#: src/Functions/HelperFunctions.php:1115 src/widgets/recipe-keys.php:42
+#: src/widgets/recipe-keys.php:79 src/DeliciousAdmin.php:474
+#: src/DeliciousAdmin.php:978 templates/global/block-print.php:192
+#: assets/admin/build/global.js:3 assets/admin/build/blocks.js:1
+#: assets/blocks/recipe-by-tax/BlockInspectorControls.js:73
+msgid "Recipe Keys"
+msgstr "Chìa khóa công thức"
+
+#: src/Functions/CoreFunctions.php:502 src/Functions/CoreFunctions.php:930
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-details.php:106
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-details.php:184
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:169
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:315
+#: templates/global/block-print.php:75 templates/global/block-print.php:278
+#: assets/admin/build/global.js:3 assets/admin/build/blocks.js:1
+#: assets/admin/build/recipe.js:3 assets/blocks/details/Inspector.js:660
+#: assets/blocks/details/Inspector.js:670
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:1267
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:1277
+msgid "Best Season"
+msgstr "Gia vị tốt nhất"
+
+#: src/Functions/CoreFunctions.php:494 src/Functions/CoreFunctions.php:926
+#: src/Functions/HelperFunctions.php:522
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:342
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-details.php:245
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:879
+#: assets/admin/build/global.js:3 assets/admin/build/blocks.js:1
+#: assets/admin/build/recipe.js:3 assets/blocks/details/Inspector.js:608
+#: assets/blocks/details/block.js:68 assets/blocks/details/block.js:114
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:1215
+msgid "Calories"
+msgstr "Lượng calo"
+
+#: src/Functions/CoreFunctions.php:486 src/Functions/CoreFunctions.php:922
+#: src/Functions/HelperFunctions.php:515
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:338
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-details.php:238
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:872
+#: templates/recipe/recipe-block/ingredients.php:16
+#: assets/admin/build/global.js:3 assets/admin/build/blocks.js:1
+#: assets/admin/build/recipe.js:3 assets/blocks/details/Inspector.js:544
+#: assets/blocks/details/block.js:63 assets/blocks/details/block.js:109
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:1151
+msgid "Servings"
+msgstr "Phần ăn"
+
+#: src/Functions/CoreFunctions.php:478 src/Functions/CoreFunctions.php:918
+#: assets/admin/build/global.js:3 assets/admin/build/blocks.js:1
+#: assets/blocks/common/RecipeCard.js:188
+#: assets/blocks/details/Inspector.js:471
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:1078
+msgid "Total Time"
+msgstr "Tổng thời gian"
+
+#: src/Functions/CoreFunctions.php:470 src/Functions/CoreFunctions.php:914
+#: assets/admin/build/global.js:3 assets/admin/build/blocks.js:1
+#: assets/admin/build/recipe.js:3 assets/blocks/common/RecipeCard.js:171
+msgid "Rest Time"
+msgstr "Thời gian nghỉ"
+
+#: src/Functions/CoreFunctions.php:462 src/Functions/CoreFunctions.php:910
+#: assets/admin/build/global.js:3 assets/admin/build/blocks.js:1
+#: assets/blocks/common/RecipeCard.js:158
+msgid "Cook Time"
+msgstr "Thời gian nấu"
+
+#: src/Functions/CoreFunctions.php:454 src/Functions/CoreFunctions.php:906
+#: assets/admin/build/global.js:3 assets/admin/build/blocks.js:1
+#: assets/blocks/common/RecipeCard.js:145
+#: assets/blocks/details/Inspector.js:315
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:922
+msgid "Prep Time"
+msgstr "Thời gian chuẩn bị"
+
+#: src/Functions/CoreFunctions.php:430 src/Functions/CoreFunctions.php:785
+#: src/Functions/CoreFunctions.php:894 templates/global/block-print.php:170
+#: assets/admin/build/global.js:3
+msgid "Cuisine"
+msgstr "Ẩm thực"
+
+#: src/Functions/CoreFunctions.php:422 src/Functions/CoreFunctions.php:799
+#: src/Functions/CoreFunctions.php:890 templates/global/block-print.php:159
+#: assets/admin/build/global.js:3
+msgid "Cooking Method"
+msgstr "Phương pháp nấu ăn"
+
+#: src/Functions/CoreFunctions.php:414 src/DeliciousAdmin.php:358
+#: templates/global/block-print.php:181 assets/admin/build/global.js:3
+#: assets/admin/build/blocks.js:1
+#: assets/blocks/recipe-by-tax/BlockInspectorControls.js:57
+msgid "Courses"
+msgstr "Các khóa học"
+
+#: src/Functions/CoreFunctions.php:406 src/Functions/CoreFunctions.php:882
+#: src/admin/partials/dr-import-recipe-screen.php:89
+#: src/admin/partials/dr-import-recipe-screen.php:99
+#: assets/admin/build/global.js:3 assets/admin/build/blocks.js:1
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:631
+msgid "Author"
+msgstr "Tác giả"
+
+#: src/Functions/CoreFunctions.php:130
+msgid "action_args should not be overwritten when calling delicious_recipes_get_template."
+msgstr "action_args không được ghi đè khi sử dụng delicious_recipes_get_template."
+
+#: src/Functions/CoreFunctions.php:438 src/Functions/CoreFunctions.php:806
+#: src/Functions/CoreFunctions.php:898
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-details.php:97
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-details.php:183
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:160
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:314
+#: templates/global/block-print.php:74 templates/global/block-print.php:204
+#: assets/admin/build/global.js:3 assets/admin/build/blocks.js:1
+#: assets/blocks/details/Inspector.js:256
+#: assets/blocks/details/Inspector.js:268
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:863
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:875
+msgid "Difficulty"
+msgstr "Độ khó"
+
+#. translators: %s template
+#: src/Functions/CoreFunctions.php:113
+msgid "%s does not exist."
+msgstr "%s không tồn tại."
+
+#: src/Functions/AjaxFunctions.php:414
+#: templates/global/searchpage-content.php:97
+msgid "Prev"
+msgstr "Trước"
+
+#: templates/global/searchpage-content.php:80
+msgid "Posts navigation"
+msgstr "Điều hướng bài viết"
+
+#: templates/global/search/filter-sorting.php:10
+msgid "Date (Oldest)"
+msgstr "Ngày (Cũ nhất)"
+
+#: templates/global/search/filter-sorting.php:9
+msgid "Date (Newest)"
+msgstr "Ngày (Mới nhất)"
+
+#: templates/global/search/filter-sorting.php:8
+msgid "Title (Z-A)"
+msgstr "Tiêu đề (Z-A)"
+
+#: templates/global/search/filter-sorting.php:7
+msgid "Title (A-Z)"
+msgstr "Tiêu đề (A-Z)"
+
+#: src/Functions/CoreFunctions.php:827
+#: templates/global/search/filter-sorting.php:6 assets/admin/build/global.js:3
+msgid "Sorting"
+msgstr "Sắp xếp"
+
+#: src/classes/class-delicious-recipes-recipe.php:505
+#: templates/global/search/filter-season.php:10 assets/admin/build/blocks.js:1
+#: assets/admin/build/recipe.js:3 assets/blocks/details/Inspector.js:679
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:1286
+#: assets/blocks/recipe-card-dynamic/components/Detail.js:406
+msgid "Suitable throughout the year"
+msgstr "Thích hợp quanh năm"
+
+#: src/classes/class-delicious-recipes-recipe.php:504
+#: templates/global/search/filter-season.php:9 assets/admin/build/blocks.js:1
+#: assets/admin/build/recipe.js:3 assets/blocks/details/Inspector.js:676
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:1283
+#: assets/blocks/recipe-card-dynamic/components/Detail.js:404
+msgid "Spring"
+msgstr "Mùa xuân"
+
+#: src/classes/class-delicious-recipes-recipe.php:503
+#: templates/global/search/filter-season.php:8 assets/admin/build/blocks.js:1
+#: assets/admin/build/recipe.js:3 assets/blocks/details/Inspector.js:675
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:1282
+#: assets/blocks/recipe-card-dynamic/components/Detail.js:402
+#: assets/blocks/recipe-card-dynamic/components/Detail.js:403
+msgid "Summer"
+msgstr "Mùa hè"
+
+#: src/classes/class-delicious-recipes-recipe.php:502
+#: templates/global/search/filter-season.php:7 assets/admin/build/blocks.js:1
+#: assets/admin/build/recipe.js:3 assets/blocks/details/Inspector.js:674
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:1281
+#: assets/blocks/recipe-card-dynamic/components/Detail.js:401
+msgid "Winter"
+msgstr "Mùa đông"
+
+#: src/classes/class-delicious-recipes-recipe.php:501
+#: templates/global/search/filter-season.php:6 assets/admin/build/blocks.js:1
+#: assets/admin/build/recipe.js:3 assets/blocks/details/Inspector.js:673
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:1280
+#: assets/blocks/recipe-card-dynamic/components/Detail.js:400
+msgid "Fall"
+msgstr "Mùa thu"
+
+#: templates/global/search/filter-reset.php:8
+msgid "Clear All"
+msgstr "Xóa tất cả"
+
+#: templates/global/search/filter-simple-factor.php:9
+msgid "7 ingredients or less"
+msgstr "7 thành phần hoặc ít hơn"
+
+#: templates/global/search/filter-simple-factor.php:8
+msgid "30 minutes or less"
+msgstr "30 phút hoặc ít hơn"
+
+#: templates/global/search/filter-simple-factor.php:7
+msgid "15 minutes or less"
+msgstr "15 phút hoặc ít hơn"
+
+#: templates/global/search/filter-simple-factor.php:6
+msgid "10 ingredients or less"
+msgstr "10 thành phần hoặc ít hơn"
+
+#: src/classes/class-delicious-recipes-recipe.php:216
+#: templates/global/search/filter-difficulty.php:8
+#: assets/admin/build/blocks.js:1 assets/admin/build/recipe.js:3
+#: assets/blocks/details/Inspector.js:283
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:890
+#: assets/blocks/recipe-card-dynamic/components/Detail.js:381
+msgid "Advanced"
+msgstr "Nâng cao"
+
+#: src/classes/class-delicious-recipes-recipe.php:215
+#: templates/global/search/filter-difficulty.php:7
+#: assets/admin/build/blocks.js:1 assets/admin/build/recipe.js:3
+#: assets/blocks/details/Inspector.js:279
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:886
+#: assets/blocks/recipe-card-dynamic/components/Detail.js:378
+msgid "Intermediate"
+msgstr "Trung cấp"
+
+#: src/classes/class-delicious-recipes-recipe.php:214
+#: templates/global/search/filter-difficulty.php:6
+#: assets/admin/build/blocks.js:1 assets/admin/build/recipe.js:3
+#: assets/blocks/details/Inspector.js:275
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:882
+#: assets/blocks/recipe-card-dynamic/components/Detail.js:376
+msgid "Beginner"
+msgstr "Người bắt đầu"
+
+#: templates/global/comments.php:54
+msgid "Comments are closed."
+msgstr "Đã đóng bình luận."
+
+#. translators: 1: comment count number.
+#: templates/global/comments.php:33
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s Bình luận"
+
+#: src/Functions/CoreFunctions.php:446 src/Functions/CoreFunctions.php:695
+#: src/Functions/CoreFunctions.php:902
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:310
+#: templates/recipe/print-screen.php:187 templates/global/block-print.php:70
+#: templates/global/block-print.php:295 assets/admin/build/global.js:1
+#: assets/admin/build/global.js:3 assets/admin/build/blocks.js:1
+#: assets/blocks/common/RecipeCard.js:226
+msgid "Description"
+msgstr "Mô tả"
+
+#: templates/recipe/print-screen.php:136
+msgid "Time"
+msgstr "Thời gian"
+
+#. translators: %1$s: rating %2$s: total ratings count
+#: templates/recipe/print-screen.php:90
+msgid "%1$s from %2$s votes"
+msgstr "%1$s từ %2$s phiếu bầu"
+
+#: templates/recipe/print-screen.php:87
+msgid "Ratings"
+msgstr "Đánh giá"
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:372
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:418
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:431
+#: templates/recipe/print-screen.php:60
+msgid "Print"
+msgstr "In"
+
+#: templates/recipe/print-screen.php:45
+msgid "Print Options:"
+msgstr "Tùy chọn in:"
+
+#: templates/recipe/powered-by.php:19
+msgid "Recipe Card powered by"
+msgstr "Recipe Card được cung cấp bởi"
+
+#. translators: %s: number of likes
+#: src/classes/class-delicious-recipes-likes-wishlists.php:104
+#: templates/recipe/recipe-like.php:7
+msgctxt "number of likes"
+msgid "%s Like"
+msgid_plural "%s Likes"
+msgstr[0] "%s đã thích"
+
+#: templates/recipe/recipe-like.php:7
+msgid "Like Recipe"
+msgstr "Công thức đã thích"
+
+#: templates/recipe/recipe-block/instructions.php:26
+msgid "On"
+msgstr "Bật"
+
+#: templates/recipe/recipe-block/instructions.php:25
+msgid "Off"
+msgstr "Tắt"
+
+#: src/classes/class-delicious-recipes-recipe.php:627
+#: src/Functions/CoreFunctions.php:713
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:312
+#: templates/recipe/recipe-block/instructions.php:8
+#: templates/global/block-print.php:72 assets/admin/build/global.js:3
+#: assets/admin/build/blocks.js:1 assets/admin/build/recipe.js:1
+#: assets/admin/build/recipe.js:3 assets/blocks/common/RecipeCard.js:263
+msgid "Instructions"
+msgstr "Hướng dẫn"
+
+#. translators: %1$s: average rating
+#: templates/recipe/recipe-block/summary.php:55
+msgid "%1$s from"
+msgstr "%1$s từ"
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:293
+#: templates/recipe/recipe-block/nutrition.php:165
+#: assets/admin/build/blocks.js:1 assets/admin/build/recipe.js:3
+#: assets/blocks/nutrition/Nutrition.js:242
+msgid "% Daily Value *"
+msgstr "% Giá trị hàng ngày *"
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:283
+#: templates/recipe/recipe-block/nutrition.php:155
+#: assets/admin/build/blocks.js:1 assets/admin/build/recipe.js:3
+#: assets/blocks/nutrition/Nutrition.js:204
+msgid "Amount Per Serving"
+msgstr "Số lượng cho mỗi phần ăn"
+
+#: src/Functions/CoreFunctions.php:767
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:146
+#: templates/recipe/recipe-block/nutrition.php:11
+#: assets/admin/build/global.js:3
+msgid "Percent Daily Values are based on a 2,000 calorie diet. Your daily value may be higher or lower depending on your calorie needs."
+msgstr "Phần trăm giá trị hàng ngày dựa trên chế độ ăn 2.000 calo. Giá trị hàng ngày của bạn có thể cao hơn hoặc thấp hơn tùy thuộc vào nhu cầu calo của bạn."
+
+#: src/classes/class-delicious-recipes-recipe.php:558
+#: src/Functions/CoreFunctions.php:707 src/Functions/CoreFunctions.php:813
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:311
+#: templates/recipe/recipe-main.php:9
+#: templates/recipe/recipe-block/ingredients.php:7
+#: templates/global/block-print.php:71 assets/admin/build/global.js:3
+#: assets/admin/build/blocks.js:1 assets/admin/build/recipe.js:1
+#: assets/admin/build/recipe.js:3 assets/blocks/common/RecipeCard.js:241
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:1581
+msgid "Ingredients"
+msgstr "Thành phần"
+
+#. translators: %s: total comments count
+#: templates/recipes-list.php:94 templates/recipe/header.php:41
+msgctxt "number of comments"
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] "%s Bình luận"
+
+#: templates/taxonomy-archive.php:84 templates/archive-author.php:68
+msgid "No recipes found."
+msgstr "Không tìm thấy công thức nấu ăn."
+
+#: templates/widgets/categories-dropdown.php:30
+msgid "Select Category"
+msgstr "Chọn chuyên mục"
+
+#: templates/archive/recipes-by-ingredients.php:75
+msgid "Recipes by Ingredient:"
+msgstr "Công thức nấu ăn theo thành phần:"
+
+#. translators: %s: category name
+#: templates/archive/all-categories.php:46
+msgid "View all recipes in %s"
+msgstr "Xem tất cả các công thức trong %s"
+
+#: templates/archive/all-categories.php:35
+msgid "All Categories:"
+msgstr "Tất cả Chuyên mục"
+
+#: templates/archive/pagination.php:32
+msgid "Page"
+msgstr "Trang"
+
+#: src/Functions/AjaxFunctions.php:423 templates/archive/pagination.php:31
+#: templates/recipe/navigation.php:44
+#: templates/global/searchpage-content.php:106
+msgid "Next"
+msgstr "Tiếp theo"
+
+#: templates/archive/pagination.php:30 templates/recipe/navigation.php:28
+msgid "Previous"
+msgstr "Quay về"
+
+#: src/blocks/recipe-by-tax/block.php:110
+#: src/blocks/handpicked-recipes/block.php:92
+#: templates/pages/taxonomy/terms-carousal.php:63
+#: templates/global/searchpage-content.php:73
+#: templates/global/searchpage-content.php:209 assets/admin/build/blocks.js:1
+#: assets/blocks/recipe-by-tax/RecipesByType.js:70
+#: assets/blocks/handpicked-recipes/block.js:190
+msgid "Recipes not found."
+msgstr "Không tìm thấy công thức nấu ăn."
+
+#: templates/pages/taxonomy/terms-carousal.php:33
+msgid "View All"
+msgstr "Xem tất cả"
+
+#: src/Functions/CoreFunctions.php:609 templates/pages/taxonomy/terms-box.php:9
+#: assets/admin/build/global.js:3
+msgid "Narrow Your Search"
+msgstr "Thu hẹp tìm kiếm của bạn"
+
+#: templates/pages/recipe-courses.php:26
+msgid "Terms not found for recipe categories."
+msgstr "Không tìm thấy thuật ngữ cho danh mục công thức."
+
+#: templates/pages/recipe-tags.php:26
+msgid "Terms not found for recipe tags."
+msgstr "Không tìm thấy thuật ngữ cho thẻ công thức."
+
+#: templates/pages/recipe-cooking-methods.php:26
+msgid "Terms not found for recipe cooking methods."
+msgstr "Không tìm thấy thuật ngữ cho phương pháp công thức."
+
+#: templates/pages/recipe-cuisines.php:26
+msgid "Terms not found for recipe cuisines."
+msgstr "Không tìm thấy thuật ngữ cho công thức ẩm thực."
+
+#: templates/pages/recipe-keys.php:26
+msgid "Terms not found for recipe keys."
+msgstr "Không tìm thấy thuật ngữ cho chìa khóa công thức."
+
+#. Author of the plugin
+msgid "WP Delicious"
+msgstr "WP Delicious"
+
+#. Description of the plugin
+msgid "A powerful recipe plugin to create and display recipes for bloggers. SEO optimized and Schema-friendly to rank recipes higher on search engines."
+msgstr "Một plugin công thức mạnh mẽ để tạo và hiển thị công thức nấu ăn cho người viết blog. Tối ưu hóa SEO và thân thiện với lược đồ để xếp hạng các công thức nấu ăn cao hơn trên các công cụ tìm kiếm."
+
+#. Author URI of the plugin
+msgid "https://wpdelicious.com"
+msgstr "https://wpdelicious.com"
+
+#. Plugin Name of the plugin
+#: src/blocks/init.php:118 src/DeliciousAdmin.php:146 src/GlobalSettings.php:68
+#: assets/admin/build/onboard.js:1
+msgid "Delicious Recipes"
+msgstr "Delicious Recipes"

@@ -1,0 +1,73 @@
+# Translation of Themes - Blossom Pretty in Vietnamese
+# This file is distributed under the same license as the Themes - Blossom Pretty package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-05-12 15:49:10+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Themes - Blossom Pretty\n"
+
+#. Theme Name of the theme
+msgid "Blossom Pretty"
+msgstr "Blossom Pretty"
+
+#: functions.php:263
+msgid " Blossom Pretty | Developed By "
+msgstr "Blossom Pretty | Phát triển bởi"
+
+#: functions.php:266
+msgid "https://wordpress.org/"
+msgstr "https://vi.wordpress.org/"
+
+#: functions.php:266
+msgid " Powered by %s"
+msgstr "Được cung cấp bởi %s"
+
+#: functions.php:117
+msgid "Layout Settings"
+msgstr "Cài đặt bố cục"
+
+#: functions.php:101
+msgid "Documentation Link: %1$sClick here.%2$s"
+msgstr "Liên kết tài liệu: %1$sNhấp vào đây.%2$s"
+
+#: functions.php:99
+msgid "Demo Link: %1$sClick here.%2$s"
+msgstr "Liên kết demo: %1$sNhấp vào đây.%2$s"
+
+#: functions.php:86
+msgid "Demo & Documentation"
+msgstr "Demo và hướng dẫn"
+
+#: functions.php:183
+msgid "This is the layout for blog index page."
+msgstr "Đây là bố cục cho trang blog."
+
+#: functions.php:161 functions.php:182
+msgid "Home Page Layout"
+msgstr "Bố cục trang chủ"
+
+#: functions.php:148
+msgid "Choose the layout of the slider for your site."
+msgstr "Chọn bố cục slider cho trang web của bạn."
+
+#: functions.php:126 functions.php:147
+msgid "Slider Layout"
+msgstr "Bố cục Slider"
+
+#. Theme URI of the theme
+msgid "https://blossomthemes.com/downloads/blossom-pretty-free-wordpress-theme"
+msgstr "https://blossomthemes.com/downloads/blossom-pretty-free-wordpress-theme"
+
+#. Author URI of the theme
+msgid "https://blossomthemes.com/"
+msgstr "https://blossomthemes.com/"
+
+#. Author of the theme
+#: functions.php:264
+msgid "Blossom Themes"
+msgstr "Blossom Themes"
